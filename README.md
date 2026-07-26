@@ -1,4 +1,4 @@
-## Hello there! I'm Eduardo..
+## Hello there! ~General Kenobi~ I'm Eduardo..
 
 I'm currently studying Systems Development in COLTEC-UFMG.
 
