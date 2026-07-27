@@ -1,6 +1,6 @@
-## Hello there! ~General Kenobi~ I'm Eduardo..
+## Hello there! ~General Kenobi~
 
-I'm currently studying Systems Development in COLTEC-UFMG.
+My name is Eduardo, and I'm currently studying Systems Development in COLTEC-UFMG.
 
 I work on some personal projects to get some experience, and I also think of collaborating in some other projects for the same reason.
 
