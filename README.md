@@ -1,4 +1,4 @@
-## Hello there! ~~General Kenobi?~~
+## Hello there!!
 
 My name is Eduardo, I'm from Brazil and currently studying Systems Development in COLTEC-UFMG.
 
