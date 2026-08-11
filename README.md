@@ -6,4 +6,4 @@ I work on some personal projects to get some experience, and I also think of col
 
 I really like to learn new languages and computer science in general. I also like competitive programming a lot.
 
-I some great have experience working with languages such as C, C++, C#, Java, Python and Lua; though, I would say that my experience with Java and Python are, in particular, slightly lower.
+I some good have experience working with languages such as C, C++, C#, Java, Python and Lua; though, I would say that my experience with C, C++ and C# are, in particular, greater.
