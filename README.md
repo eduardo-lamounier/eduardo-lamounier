@@ -8,6 +8,4 @@ I really like to learn new languages and computer science in general. I also lik
 
 I have some good experience working with languages such as C, C++, C#, Java, Python and Lua; though, I would say that my experience with C, C++ and C# is, in particular, greater.
 
-### Contacting
-
 For contact, my email is `eduardolamounerm@gmail.com`.
