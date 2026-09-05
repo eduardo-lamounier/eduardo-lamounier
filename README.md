@@ -1,11 +1,15 @@
-## Hello there!!
+# Hey, I'm Eduardo 👋
 
-My name is Eduardo, I'm from Brazil and currently studying Systems Development in COLTEC-UFMG.
+Brazilian dev studying Systems Development at COLTEC-UFMG.
 
-I work on some personal projects to get some experience, and I also think of collaborating in some other projects for the same reason. Most of my projects are in english, but some - especially projects for COLTEC - are in portuguese.
+I build personal projects to learn and get experience.
+Most are in English, though some COLTEC-related ones are in Portuguese.
 
-I really like to learn new languages and computer science in general. I also like competitive programming a lot.
+I like learning new programming languages and computer science broadly —
+competitive programming especially.
 
-I have some good experience working with languages such as C, C++, C#, Java, Python and Lua; though, I would say that my experience with C, C++ and C# is, in particular, greater.
+**Strongest in C, C++ and C#:**
 
-For contact, my email is `eduardolamounerm@gmail.com`.
+<img src="https://skillicons.dev/icons?i=c" width="25" height="25"/> <img src="https://skillicons.dev/icons?i=cs" width="25" height="25"/> <img src="https://skillicons.dev/icons?i=cpp" width="25" height="25"/> <img src="https://skillicons.dev/icons?i=java" width="25" height="25"/> <img src="https://skillicons.dev/icons?i=lua" width="25" height="25"/> <img src="https://skillicons.dev/icons?i=py" width="25" height="25"/>
+
+📫 [eduardolamounerm@gmail.com](mailto:eduardolamounerm@gmail.com)
