@@ -8,8 +8,8 @@ Most are in English, though some COLTEC-related ones are in Portuguese.
 I like learning new programming languages and computer science broadly —
 competitive programming especially.
 
-**Strongest in C, C++ and C#:**
+**Languages I have experience on:**
 
-<img src="https://skillicons.dev/icons?i=c" width="25" height="25"/> <img src="https://skillicons.dev/icons?i=cs" width="25" height="25"/> <img src="https://skillicons.dev/icons?i=cpp" width="25" height="25"/> <img src="https://skillicons.dev/icons?i=java" width="25" height="25"/> <img src="https://skillicons.dev/icons?i=lua" width="25" height="25"/> <img src="https://skillicons.dev/icons?i=py" width="25" height="25"/>
+<img src="https://skillicons.dev/icons?i=c" width="30" height="30"/> <img src="https://skillicons.dev/icons?i=cs" width="30" height="30"/> <img src="https://skillicons.dev/icons?i=cpp" width="30" height="30"/> <img src="https://skillicons.dev/icons?i=java" width="25" height="25"/> <img src="https://skillicons.dev/icons?i=lua" width="25" height="25"/> <img src="https://skillicons.dev/icons?i=py" width="25" height="25"/>
 
 📫 [eduardolamounerm@gmail.com](mailto:eduardolamounerm@gmail.com)
