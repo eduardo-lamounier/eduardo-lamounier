@@ -10,6 +10,6 @@ competitive programming especially.
 
 **Languages I have experience on:**
 
-<img src="https://skillicons.dev/icons?i=c" width="30" height="30"/> <img src="https://skillicons.dev/icons?i=cs" width="30" height="30"/> <img src="https://skillicons.dev/icons?i=cpp" width="30" height="30"/> <img src="https://skillicons.dev/icons?i=java" width="25" height="25"/> <img src="https://skillicons.dev/icons?i=lua" width="25" height="25"/> <img src="https://skillicons.dev/icons?i=py" width="25" height="25"/>
+<img src="https://skillicons.dev/icons?i=c" width="30" height="30"/> <img src="https://skillicons.dev/icons?i=cs" width="30" height="30"/> <img src="https://skillicons.dev/icons?i=cpp" width="30" height="30"/> <img src="https://skillicons.dev/icons?i=java" width="25" height="25"/> <img src="https://skillicons.dev/icons?i=lua" width="25" height="25"/> <img src="https://skillicons.dev/icons?i=go" width="25" height="25"/> <img src="https://skillicons.dev/icons?i=py" width="25" height="25"/>
 
 📫 [eduardolamounerm@gmail.com](mailto:eduardolamounerm@gmail.com)
