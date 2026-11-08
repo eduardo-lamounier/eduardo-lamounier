@@ -2,14 +2,12 @@
 
 Brazilian dev studying Systems Development at COLTEC-UFMG.
 
-I build personal projects to learn and get experience.
-Most are in English, though some COLTEC-related ones are in Portuguese.
+Outside of my studies, I enjoy building personal projects to explore programming languages and computer science. Most are in English, while some COLTEC-related projects are in Portuguese. I'm especially interested in competitive programming.
 
-I like learning new programming languages and computer science broadly —
-competitive programming especially.
+**Most comfortable with:** C#, C++, Go
 
-**Languages I have experience with:**
+**Also used:** C, Java
 
-<img src="https://skillicons.dev/icons?i=cs" width="30" height="30"/> <img src="https://skillicons.dev/icons?i=c" width="30" height="30"/> <img src="https://skillicons.dev/icons?i=cpp" width="30" height="30"/> <img src="https://skillicons.dev/icons?i=go" width="30" height="30"/> <img src="https://skillicons.dev/icons?i=java" width="25" height="25"/> <img src="https://skillicons.dev/icons?i=py" width="25" height="25"/>
+**Selected project:** [Setly](https://github.com/eduardo-lamounier/setly) — a programming language I'm designing and implementing as an interpreter in Go.
 
 📫 [eduardolamounerm@gmail.com](mailto:eduardolamounerm@gmail.com)
