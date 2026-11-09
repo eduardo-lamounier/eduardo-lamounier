@@ -4,7 +4,7 @@ Brazilian dev studying Systems Development at COLTEC-UFMG.
 
 Outside of my studies, I enjoy building personal projects to explore programming languages and computer science. Most are in English, while some COLTEC-related projects are in Portuguese. I'm especially interested in competitive programming.
 
-**Most comfortable with:** C#, C++, Go
+**Most comfortable with:** Go, C#, C++
 
 **Also used:** C, Java
 
