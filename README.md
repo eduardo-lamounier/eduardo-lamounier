@@ -8,6 +8,6 @@ Outside of my studies, I enjoy building personal projects to explore programming
 
 **Also used:** C, Java
 
-**Selected project:** [Setly](https://github.com/eduardo-lamounier/setly) — a programming language I'm designing and implementing as an interpreter in Go.
+My **biggest project** is [Setly](https://github.com/eduardo-lamounier/setly) — a programming language I'm designing and implementing as an interpreter in Go.
 
 📫 [eduardolamounerm@gmail.com](mailto:eduardolamounerm@gmail.com)
