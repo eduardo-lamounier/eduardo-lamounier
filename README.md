@@ -6,7 +6,7 @@ Outside of my studies, I enjoy building personal projects to explore programming
 
 **Most comfortable with:** Go, C#, C++
 
-**Also used:** C, Java
+**Also used:** Java, C
 
 My **main project** is **[Setly](https://github.com/eduardo-lamounier/setly)** — a programming language I'm designing and implementing as an interpreter in Go.
 
